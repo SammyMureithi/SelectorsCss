@@ -1,0 +1,22 @@
+span {
+    background-color: yellow;
+}
+
+strong {
+    color: rebeccapurple;
+}
+
+em {
+    color: rebeccapurple;
+}
+h1{
+    background-color: greenyellow;
+    color: white;
+    font-size: 2rem;
+}
+/**
+We could have a universal selector
+*/
+*{
+    margin: 0px;
+}

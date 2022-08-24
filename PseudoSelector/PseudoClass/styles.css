@@ -1,0 +1,6 @@
+article p:first-child{
+    background-color: red;
+    color: greenyellow;
+    font-size: 120%;
+    font-weight: bold;
+}

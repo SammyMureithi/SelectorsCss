@@ -1,0 +1,20 @@
+.highlight{
+    color:  red;
+    background-color: greenyellow;
+    font-size: 3rem;
+}
+span.highlight{
+    background-color: red;
+    color: greenyellow;
+}
+.notebox{
+    border:  solid grey 3px;
+    margin: 10px 19px;
+    padding: 20px 20px;
+}
+.warning{
+    border:  solid yellow 3px;
+}
+.danger{
+    border: solid red 3px;
+}
